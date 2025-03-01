@@ -17,3 +17,6 @@
 
 -Ödevimde yazmış olduğum siteye üye olmak için bir kayıt formu oluşturdum. Form elemanlarına açıklama eklemek ve bağlanmak için "label" etiketini, kullanıcının veri girmesi için "input" etiketini, kullanıcıya açılır liste sunup seçim yapmasını sağlamak için "select" etiketini, doldurulan form üzerinde işlem yapmak için "button" etiketini kullandım.
 
+
+-Sayfalardaki içeriklerin yerini istediğim gibi düzenleyebilmek için oldukça fazla sayıda "table" etiketi kullandım
+
