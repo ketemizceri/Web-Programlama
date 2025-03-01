@@ -8,3 +8,9 @@
 
 -Link oluşturmak için "a" etiketini, linkleri gruplamak için "nav" etiketini kullandım.
 
+
+-Liste oluştumak için "ul" ve "li" etiketlerini kullandım.
+
+
+-Paragraflar için "p" etiketini, yazıları biçimlendirmek için "span", "strong" , "em" , "mark" etiketlerini, başlıklar için "h" etiketlerini kullandım.
+
