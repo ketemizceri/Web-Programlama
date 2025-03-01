@@ -14,3 +14,6 @@
 
 -Paragraflar için "p" etiketini, yazıları biçimlendirmek için "span", "strong" , "em" , "mark" etiketlerini, başlıklar için "h" etiketlerini kullandım.
 
+
+-Ödevimde yazmış olduğum siteye üye olmak için bir kayıt formu oluşturdum. Form elemanlarına açıklama eklemek ve bağlanmak için "label" etiketini, kullanıcının veri girmesi için "input" etiketini, kullanıcıya açılır liste sunup seçim yapmasını sağlamak için "select" etiketini, doldurulan form üzerinde işlem yapmak için "button" etiketini kullandım.
+
