@@ -20,3 +20,6 @@
 
 -Sayfalardaki içeriklerin yerini istediğim gibi düzenleyebilmek için oldukça fazla sayıda "table" etiketi kullandım
 
+
+-Film fragmanları eklemek için "iframe" etiketini kullandım.
+
